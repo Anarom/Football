@@ -1,0 +1,17 @@
+bigchancecreated
+chipped
+cross
+endx
+endy
+goaldisallowed
+indirectfreekicktaken
+intentionalassist
+intentionalgoalassist
+headpass
+keypass
+layoff
+longball
+passsituation
+playercaughtoffside
+shotassist
+throughball

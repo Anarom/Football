@@ -1,0 +1,16 @@
+assisted
+bigchance
+blocked
+blockedclose
+blockedx
+blockedy
+bodypart
+direction
+goal
+goalmouthy
+goalmouthz
+owngoal
+savedoffline
+shot
+shotsituation
+zone

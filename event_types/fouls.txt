@@ -1,0 +1,8 @@
+aerialfoul
+cardtype
+foul
+obstruction
+redcard
+secondyellowcard
+voidyellowcard
+yellowcard
